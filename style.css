@@ -1,0 +1,44 @@
+body{
+    padding: 50px 200px;
+    background-color: bisque;
+    background-image: url(https://quizizz.com/_media/quizzes/9c06b7ef-a107-436b-ad22-03ee8e17f6a3_900_900);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    text-decoration: overline underline rgb(222, 222, 46);
+    font-size: 50px;
+    
+}
+
+#container{
+    /* background-color: rgb(128, 129, 212); */
+    padding: 100px;
+    text-align: center;
+    /* border: 2px solid black;
+    border-radius: 3%;
+     */
+}
+.input-div{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 3%;
+    background-color: rgba(250, 235, 215, 0.421);
+     
+}
+.inp{
+    padding: 5px 5px;
+    margin: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+label{
+    font-size: 30px;
+
+}
